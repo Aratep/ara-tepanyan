@@ -2,4 +2,4 @@
 Personal Portfolio Profile | Ara Tepanyan
 
 ## 🌐 My Website
-👉 [Ara Tepanyan Personal Profile](https://ara-tepanyan.com/)
+👉 [Ara Tepanyan's Personal Profile](https://ara-tepanyan.com/)
